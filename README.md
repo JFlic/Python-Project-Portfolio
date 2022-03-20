@@ -1,2 +1,2 @@
 # Project-Portfolio
-This Portfolio holds all my person project that I have been working on 
+This Portfolio holds all my personal project that I have coded and designed myself.
