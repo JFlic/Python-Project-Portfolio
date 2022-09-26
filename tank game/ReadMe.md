@@ -1,5 +1,3 @@
-# all files must be in the same folder on your desk to run
-
 # details on tank game 1.0
 This is my first try at making my tank game. For the most part I was just trying to get the basic physics right before moving on to 2.0.
 
